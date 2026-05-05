@@ -1,27 +1,59 @@
-🚀 Landing Page with Mix-Blend Effect
-This project is a landing page design featuring an interactive layout with the use of the mix-blend mode CSS property. The page showcases the Asia continent, with a background video playing within its boundaries. The mix-blend mode creates a unique visual effect, blending the elements on the page with the background to provide a captivating, dynamic design.
+# 🌏 AsiaBlend: Interactive Video Compositing & Layout
 
-🌟 Features
-✔ Mix-Blend Mode – The page uses CSS mix-blend mode for creative blending of elements and background, adding a distinctive touch to the design.
-✔ Background Video – A video plays inside the shape of Asia, providing an engaging and immersive effect.
-✔ Interactive Layout – Engaging design elements and smooth transitions enhance the user experience.
+> **"A high-impact landing page exploring CSS Compositing and Blending levels. Featuring dynamic video masking and hardware-accelerated 'mix-blend-mode' interactions."**
 
-🔧 Technologies Used
-HTML5
-CSS3 (Including Mix-Blend Mode and Responsive Design)
-Video Integration
+![Repo Size](https://img.shields.io/github/repo-size/emineugurlu/ASIA?color=orange&style=flat-square)
+![Language Count](https://img.shields.io/github/languages/count/emineugurlu/ASIA?color=orange&style=flat-square)
+![CSS Tech](https://img.shields.io/badge/CSS-Mix--Blend--Mode-blueviolet?style=flat-square)
 
-🚀 How to Use
-1️⃣ Clone the repository:
-git clone https://github.com/emineugurlu/ASIA.git
+Visual storytelling meets modern web standards. This project is a technical exploration of **Non-Destructive Image Processing** directly in the browser. By utilizing the `mix-blend-mode` property, I implemented a complex visual hierarchy where high-definition video assets interact dynamically with typography and vector shapes.
 
-2️⃣ Navigate to the project folder:
-cd ASIA
+---
 
-3️⃣ Open index.html in a browser to view the landing page with the video and mix-blend effect.
+## 🚀 Engineering Mindset
 
-Feel free to explore, modify, or contribute to this project on GitHub! 😊
+This landing page focuses on **Advanced Visual Rendering**:
 
-![1](https://github.com/user-attachments/assets/80bfd74e-f252-49eb-a7c9-b5ae59edd264)
-![2](https://github.com/user-attachments/assets/9f15bf7c-bb71-4c13-9e8e-f947bc38599b)
-![3](https://github.com/user-attachments/assets/55d56202-6d93-456e-aa62-e8d72beef610)
+*   **CSS Compositing:** Utilizing `mix-blend-mode: screen` and `multiply` to create seamless transitions between video layers and text elements.
+*   **Video Masking Techniques:** Implementing background video integration that maintains high performance (60fps) while being processed through CSS blend filters.
+*   **Typography Orchestration:** Ensuring readability across high-contrast video backgrounds through strategic use of overlay layers and shadow depth.
+*   **Responsive Fluidity:** Maintaining the complex visual alignment of the "Asia" geometry across various viewport aspect ratios.
+
+## 🌟 Key Features
+
+*   **Immersive Video Integration:** Cinematic background video execution that serves as a primary design element.
+*   **Dynamic Blending:** Real-time color interaction between the foreground text and the moving video background.
+*   **Optimized Assets:** Lean HTML structure designed to handle video playback without excessive DOM overhead.
+
+## 🔧 Technical Stack
+
+*   **HTML5:** Semantic architecture with integrated `<video>` components.
+*   **CSS3:** Advanced usage of `mix-blend-mode`, `object-fit`, and **Custom Layout Engines** (Flex/Grid).
+
+## 📸 Visual Showcase
+
+### 🎥 Primary Blend Interaction
+![Hero View](https://github.com/user-attachments/assets/80bfd74e-f252-49eb-a7c9-b5ae59edd264)
+
+### 📂 Layout Structure
+![Layout](https://github.com/user-attachments/assets/9f15bf7c-bb71-4c13-9e8e-f947bc38599b)
+
+### 📱 Detailed UI Components
+![UI Details](https://github.com/user-attachments/assets/55d56202-6d93-456e-aa62-e8d72beef610)
+
+---
+
+## 🛠️ Installation & Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/emineugurlu/ASIA.git](https://github.com/emineugurlu/ASIA.git)
+2. **Open the Project:**
+   ````bash
+   cd ASIA
+   open index.html
+
+Developed by Emine Uğurlu with a focus on CSS compositing and immersive UI.
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/emineugurlu/ASIA.git](https://github.com/emineugurlu/ASIA.git)

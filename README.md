@@ -2,7 +2,7 @@
 
 > **"A high-impact landing page exploring CSS Compositing and Blending levels. Featuring dynamic video masking and hardware-accelerated 'mix-blend-mode' interactions."**
 
-![Repo Size](https://img.shields.io/https://github.com/emineugurlu/ASIAcolor=orange&style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/emineugurlu/ASIA?color=orange&style=flat-square)
 ![Language Count](https://img.shields.io/github/languages/count/emineugurlu/ASIA?color=orange&style=flat-square)
 ![CSS Tech](https://img.shields.io/badge/CSS-Mix--Blend--Mode-blueviolet?style=flat-square)
 

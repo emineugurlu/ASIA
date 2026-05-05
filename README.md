@@ -50,6 +50,4 @@ This landing page focuses on **Advanced Visual Rendering**:
    open index.html
 
 Developed by Emine Uğurlu with a focus on CSS compositing and immersive UI.
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/emineugurlu/ASIA.git](https://github.com/emineugurlu/ASIA.git)
+

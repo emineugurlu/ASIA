@@ -32,13 +32,9 @@ This landing page focuses on **Advanced Visual Rendering**:
 
 ## 📸 Visual Showcase
 
-### 🎥 Primary Blend Interaction
+
 ![Hero View](https://github.com/user-attachments/assets/80bfd74e-f252-49eb-a7c9-b5ae59edd264)
-
-### 📂 Layout Structure
 ![Layout](https://github.com/user-attachments/assets/9f15bf7c-bb71-4c13-9e8e-f947bc38599b)
-
-### 📱 Detailed UI Components
 ![UI Details](https://github.com/user-attachments/assets/55d56202-6d93-456e-aa62-e8d72beef610)
 
 ---
